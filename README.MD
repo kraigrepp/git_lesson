@@ -7,3 +7,6 @@ Third line.
 Fourth line.
 
 Fith line for diff.
+
+
+I like this change.
