@@ -7,3 +7,9 @@ Third line.
 Fourth line.
 
 Fith line for diff.
+
+Line one
+
+line two
+
+line three
